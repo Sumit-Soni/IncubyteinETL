@@ -121,3 +121,4 @@ if __name__ == '__main__':
     date_of_birth = int(input("Date of Birth: "))
      
     main(open_date, last_consulted_date, date_of_birth)
+    
